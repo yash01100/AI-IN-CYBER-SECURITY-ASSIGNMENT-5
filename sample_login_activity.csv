@@ -1,0 +1,13 @@
+failed_logins,login_hour,new_device,download_mb,label
+0,10,0,25,Normal
+1,14,0,40,Normal
+0,9,0,30,Normal
+2,16,0,55,Normal
+1,11,1,45,Normal
+0,13,0,20,Normal
+7,1,1,250,Suspicious
+8,2,1,400,Suspicious
+6,0,1,320,Suspicious
+9,3,1,600,Suspicious
+5,23,1,500,Suspicious
+7,1,0,280,Suspicious
