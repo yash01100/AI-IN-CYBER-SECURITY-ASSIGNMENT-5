@@ -1,0 +1,6 @@
+Scenario,Rule Result,Matched Keywords,Decision Tree,Tree Confidence,Neural Network,NN Probability,Risk,Recommended Action,Human Review
+1. Normal message + normal login,Safe,,Normal,1.0,Suspicious,0.562,Medium,Be cautious and verify the activity.,Yes
+2. Urgent account verification,Phishing,"verify your account, password, blocked, urgent",Normal,1.0,Suspicious,0.572,High,Avoid interaction; verify through an official channel.,Yes
+3. Repeated failed logins on new device,Safe,,Suspicious,1.0,Suspicious,0.662,High,Avoid interaction; verify through an official channel.,Yes
+4. Large download at unusual time,Malware,download,Normal,1.0,Suspicious,0.652,High,Avoid interaction; verify through an official channel.,Yes
+5. Potential conflict / low confidence,Safe,,Normal,1.0,Suspicious,0.607,Medium,Be cautious and verify the activity.,Yes
