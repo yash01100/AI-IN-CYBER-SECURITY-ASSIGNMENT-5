@@ -20,7 +20,7 @@ The notebook combines:
 
 ## Files
 
-- `Yash_Raj_ENSP355_AI_Cybersecurity_Assistant.ipynb` — main Google Colab notebook.
+- `Yash_Raj_ENSP355_AI_Cybersecurity_Assistant 5.ipynb` — main Google Colab notebook.
 - The notebook creates the sample message and login datasets as CSV files when its relevant cells are run.
 
 ## How to Run in Google Colab
@@ -30,7 +30,8 @@ The notebook combines:
 3. Select **File → Upload notebook** and upload the notebook.
 4. In the notebook, select **Runtime → Run all**.
 5. Wait for all cells to finish and review the displayed tables, metrics, charts, and scenario results.
-6. Download any generated CSV outputs if they are required for submission.
+6. Download the generated CSV outputs if they are required for submission.
+7. After any code correction, run **Runtime → Run all** again and save the executed notebook so its outputs match the current code.
 
 ## Dataset and Safety
 
